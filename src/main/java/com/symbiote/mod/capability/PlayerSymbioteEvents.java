@@ -67,7 +67,7 @@ public class PlayerSymbioteEvents {
             data.setSelectedAbilityIndex(0);
             symbiote.discard();
             player.level().playSound(null, player.blockPosition(),
-                    net.minecraft.sounds.SoundEvents.WARDEN_AGITATED_ROAR, net.minecraft.sounds.SoundSource.PLAYERS, 0.5F, 1.6F);
+                    net.minecraft.sounds.SoundEvents.WARDEN_ROAR, net.minecraft.sounds.SoundSource.PLAYERS, 0.5F, 1.6F);
             player.displayClientMessage(Component.literal("Симбиот связался с тобой! Мы теперь одно целое.").withStyle(ChatFormatting.DARK_PURPLE), false);
         });
     }
