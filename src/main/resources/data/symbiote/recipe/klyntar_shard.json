@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GNG",
+    "GGG"
+  ],
+  "key": {
+    "G": { "item": "symbiote:symbiote_goo" },
+    "N": { "item": "minecraft:netherite_scrap" }
+  },
+  "result": { "id": "symbiote:klyntar_shard", "count": 1 }
+}

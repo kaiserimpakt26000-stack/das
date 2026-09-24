@@ -1,0 +1,18 @@
+{
+  "itemGroup.symbiote": "Symbiote",
+
+  "item.symbiote.symbiote_goo": "Symbiote Goo",
+  "item.symbiote.klyntar_shard": "Klyntar Shard",
+  "item.symbiote.symbiote_whip": "Symbiote Tendril",
+  "item.symbiote.symbiote_helmet": "Symbiote Mask",
+  "item.symbiote.symbiote_chestplate": "Symbiote Carapace",
+  "item.symbiote.symbiote_leggings": "Symbiote Legguard",
+  "item.symbiote.symbiote_boots": "Symbiote Boots",
+  "item.symbiote.symbiote_spawn_egg": "Symbiote Spawn Egg",
+  "item.symbiote.symbiote_core": "Symbiote Will",
+
+  "block.symbiote.meteorite_rock": "Meteorite Rock",
+  "block.symbiote.meteorite_core": "Meteorite Core",
+
+  "entity.symbiote.symbiote": "Symbiote"
+}

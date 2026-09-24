@@ -1,0 +1,18 @@
+{
+  "itemGroup.symbiote": "Симбиот",
+
+  "item.symbiote.symbiote_goo": "Слизь симбиота",
+  "item.symbiote.klyntar_shard": "Осколок клинтара",
+  "item.symbiote.symbiote_whip": "Щупальце симбиота",
+  "item.symbiote.symbiote_helmet": "Маска симбиота",
+  "item.symbiote.symbiote_chestplate": "Панцирь симбиота",
+  "item.symbiote.symbiote_leggings": "Поножи симбиота",
+  "item.symbiote.symbiote_boots": "Ботинки симбиота",
+  "item.symbiote.symbiote_spawn_egg": "Яйцо призыва симбиота",
+  "item.symbiote.symbiote_core": "Воля симбиота",
+
+  "block.symbiote.meteorite_rock": "Метеоритная порода",
+  "block.symbiote.meteorite_core": "Ядро метеорита",
+
+  "entity.symbiote.symbiote": "Симбиот"
+}

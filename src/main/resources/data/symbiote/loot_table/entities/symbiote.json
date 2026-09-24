@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "symbiote:symbiote_goo",
+          "functions": [
+            { "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } },
+            { "function": "minecraft:looting_enchant", "count": { "min": 0, "max": 1 } }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "symbiote:klyntar_shard",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 9
+        }
+      ]
+    }
+  ]
+}

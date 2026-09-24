@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G",
+    "G ",
+    "K "
+  ],
+  "key": {
+    "G": { "item": "symbiote:symbiote_goo" },
+    "K": { "item": "symbiote:klyntar_shard" }
+  },
+  "result": { "id": "symbiote:symbiote_whip", "count": 1 }
+}
